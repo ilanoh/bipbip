@@ -1,0 +1,30 @@
+{
+  "name": "bipbip-timer",
+  "version": "1.0.0",
+  "description": "Dead simple notification timer for your terminal",
+  "bin": {
+    "bipbip": "./bin/bipbip.js"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "keywords": [
+    "timer",
+    "notification",
+    "reminder",
+    "cli",
+    "alarm",
+    "alert",
+    "countdown",
+    "pomodoro"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bipbip-timer/bipbip"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
