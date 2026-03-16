@@ -1,6 +1,6 @@
 # bipbip
 
-Dead simple notification timer for your terminal. No config. No dependencies. Just type and forget.
+The simplest notification timer for your terminal. No config. No dependencies. Just type and forget.
 
 ```
 $ bipbip 5

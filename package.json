@@ -1,7 +1,7 @@
 {
   "name": "bipbip-timer",
   "version": "1.0.0",
-  "description": "Dead simple notification timer for your terminal",
+  "description": "The simplest notification timer for your terminal",
   "bin": {
     "bipbip": "./bin/bipbip.js"
   },
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bipbip-timer/bipbip"
+    "url": "https://github.com/ilanoh/bipbip"
   },
   "engines": {
     "node": ">=16"
